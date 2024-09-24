@@ -1,8 +1,7 @@
 # Lab1_linux_nti
 1.	cat the file /etc/passwd and notice the different fields. Extract your info from it.
-```
 ![Screenshot from 2024-09-24 20-39-51](https://github.com/user-attachments/assets/f5d34c69-bf21-4120-b072-829cc2f04fe9)
-```
+
 2.	What is the difference between cat and more command.
 ```
 cat command
