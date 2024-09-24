@@ -26,17 +26,24 @@
 4.	Create the following hierarchy:
 
  
-
+![Screenshot from 2024-09-24 22-17-15](https://github.com/user-attachments/assets/4e01eee3-4695-4176-b051-a97bd0d1ea14)
 a.	Remove dir11 in one step. What do you notice?  And how to overcome that?
+![Screenshot from 2024-09-24 22-28-15](https://github.com/user-attachments/assets/b8db6801-14a3-4b23-94a6-16ac926adbdc)
 
 b.	Then remove dir12 using rmdir –p command. State what happened to the hierarchy (Note: you are in your home dir).
 
 5.	Copy the passwd file to your home directory making its name is mypasswd.
-
+![Screenshot from 2024-09-24 22-42-59](https://github.com/user-attachments/assets/20392121-452a-4bb2-8b5e-65ca8ff70f6a)
 6.	Rename this new file to be oldpasswd.
 
 7.	The output of the command pwd was /home/guest50. Write the absolute and relative path for the file mycv
+```
+#absolute path
+/home/guest50/mycv
+#relative path
+mycv
 
+```
 8.	You are in /usr/bin, list four ways to go to your home directory.
 ```
 cd ~
@@ -69,6 +76,8 @@ man 5 passwd
 ![Screenshot from 2024-09-24 20-59-43](https://github.com/user-attachments/assets/b88c0519-a983-4041-83f6-d0da592e01c8)
 
 15.	 Display a list of all the commands that contain the keyword passwd in their man page.
+
+![Screenshot from 2024-09-24 22-33-17](https://github.com/user-attachments/assets/7c4e452b-005c-4ba3-bcf8-7ab2046934a2)
 
 16.	Using vi write your CV in the file mycv. Your CV should include your name, age, school, college, experience…
 ```
